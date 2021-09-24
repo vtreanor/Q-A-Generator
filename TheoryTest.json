@@ -1,0 +1,352 @@
+{
+  "Document": {
+    "Title": "Bus & Truck Theory Test",
+    "Subtitle" : "Hard to remember questions",
+    "Date": "August 2021",
+    "Author": "Vincent Treanor"
+  },
+  "Notes": [
+      "Text in brackets are explanations, not part of the answer",
+      "There are inconsistancies but, these quesstions and answers are the official ones."
+   ],
+   "stuff":[
+      {
+         "Question": "How long may a driver continue to drive without a driver card if their card has been lost or stolen?",
+         "Answer":   "15 days"
+      },
+
+      {
+         "Question": "What should a driver do with a driver card that has malfunctioned?",
+         "Answer":   "Return it to the Road Safety Authority"
+      },
+      {
+         "Question": "How often must the data on a driver card be downloaded?",
+         "Answer":   "28 days"
+      },
+      {
+         "Question": "Who should a driver notify if his tachograph card is lost or stolen?",
+         "Answer":   "Gardai and RSA."
+      },
+      {
+         "Question": "Who is responsible for the long term storage of tachograph data after 21 days?",
+         "Answer":   "The Operator."
+      },
+
+      {
+         "Question": "Who should you notify if the tachograph is damaged?",
+         "Answer":   "RSA"
+      },
+      {
+         "Question": "According to EU drivers regulations a break is required for a driver after driving...",
+         "Answer":   "4½ hours"
+      },
+      {
+         "Question": "Under EU drivers regulations, what is the minimum number of consecutive hours of daily rest a driver must take?",
+         "Answer":   "11 reduced to 9<br>(EU regulations specify that a driver must take an 11 hour rest period within each 24 hour period. This may be reduced to 9 hours on a maximum of 3 days in a two week period.)"
+      },
+      {
+         "Question": "After 4½ hours of driving, how long a break must a driver take?",
+         "Answer":   "45 minutes"
+      },
+      {
+         "Question": "What is the maximum time a driver can drive between weekly rest periods?",
+         "Answer":   "56 hours"
+      },
+      {
+         "Question": "Under EU driving hours regulations, what is the maximum hours that may be driven in a given week?",
+         "Answer":   "56 hours"
+      },
+      {
+         "Question": "Under EU driving hours regulations, the shortest break that a driver can take in a driviing period is?",
+         "Answer":   "15 minutes"
+      },
+      {
+         "Question": "Under EU drivers hours regulations, a driver must take a break after how many hours driving?",
+         "Answer":   "4½ hours"
+      },
+      {
+         "Question": "Under EU drivers hours regulations, after driving for 4½ hours, a driver must take an uninterrupted break of ...",
+         "Answer":   "45 minutes."
+      },
+      {
+         "Question": "What is the maximum number of hours a driver can drive without taking a break? ::",
+         "Answer":   "4½ hours."
+      },
+      {
+         "Question": "What is the maximum number of hours a driver can drive in a given week?",
+         "Answer":   "56 hours."
+      },
+      {
+         "Question": "What is the maximum number of driving hours in a two week period? ::",
+         "Answer":   "90 hours."
+      },
+      {
+         "Question": "What is the minimum break time that should be taken for each break during or following a driving period?",
+         "Answer":   "15 minutes."
+      },
+      {
+         "Question": "What is the minimum break time which must be taken following a 4½ hour driving period?",
+         "Answer":   "45 minutes."
+      },
+      {
+         "Question": "What is the maximum number of hours a driver may drive in week two, if 56 hours were worked in week one? ::",
+         "Answer":   "34 hours."
+      },
+      {
+         "Question": "On how many days of the working week may a driver drive for more than 9 hours?",
+         "Answer":   "2 days."
+      },
+      {
+         "Question": "On how many days of the working week may a driver drive?",
+         "Answer":   "6 days."
+      },
+      {
+         "Question": "On 3 days of the week what can the minimum daily rest period be reduced to?",
+         "Answer":   "9 hours.<br>(EU regulations specify that a driver must take an 11 hour rest period within each 24 hour period. This may be reduced to 9 hours on a maximum of 3 days in a two week period.)"
+      },
+      {
+         "Question": "What is the normal minimum weekly rest period?",
+         "Answer":   "45 consecutive hours."
+      },
+      {
+         "Question": "On a rest day, may a driver carry out other 'paid duties' apart from driving?",
+         "Answer":   "No, it is a rest day."
+      },
+      {
+         "Question": "Who enforces the licensing provisions of the Road Transport Acts?",
+         "Answer":   "The RSA and Gardai."
+      },
+      {
+         "Question": "Road Haulage and Road Passenger Transport Operator's license are issued and maintained by ...",
+         "Answer":   "The Department of Transport."
+      },
+      {
+         "Question": "Which of the following organisations is responsible for enforcing EU and national transport legislation on the licensing of road haulage and passenger operators?",
+         "Answer":   "The RSA"
+      },
+      {
+         "Question": "What operator is exempt from carrying a Road Haulage Operators License?",
+         "Answer":   "An operator who owns a category C type truck and uses it to transport their own goods."
+      },
+      {
+         "Question": "How many penalty points collected in 36 months  will result in a driving ban?",
+         "Answer":   "12 points"
+      },
+      {
+         "Question": "If a fixed charge notice is received, the fine must be paid within how many days to avoid additional penalty?",
+         "Answer":   "28 days."
+      },
+      {
+         "Question": "A fixed charge contains all the following information EXCEPT...",
+         "Answer":   "when to appear in court."
+      },
+      {
+         "Question": "If 12 or more panalty points are built up in a 36 month period, how many months is the driver banned from driving?",
+         "Answer":   "6 months.<br>(and, you must hand in your driving license at the motor tax office within 14 days.)"
+      },
+      {
+         "Question": "If a driver is disqualified from driving, within how many days must the license be handed in to the court for endorsement?",
+         "Answer":   "14 days."
+      },
+      {
+         "Question": "What distance before a zebra crossing is parking prohibited?",
+         "Answer":   "15 metres."
+      },
+      {
+         "Question": "Within what distance of a road junction is parking prohibited?",
+         "Answer":   "5 metres, unless parking spaces are clearly marked."
+      },
+      {
+         "Question": "A driver has driven a vehicle on a journey and has not used a tachograph. What is the MOST severe penalty risk?",
+         "Answer":   "Loss of license and heavy fines."
+      },
+      {
+         "Question": "A driver did not use a tachograph chart on a new journey. Which of the following is the MOST severe penalty risk?",
+         "Answer":   "Imprisonment and/or heavy fine."
+      },
+      {
+         "Question": "How many road deaths in Ireland in 2017?",
+         "Answer":   "158"
+      },
+      {
+         "Question": "A driver using a mobile phone is how many times more likely to have an incident?",
+         "Answer":   "4 times"
+      },
+      {
+         "Question": "Is a driver allowed to sound the horn while driving in a built up area at night?",
+         "Answer":   "Yes, but between 11:30pm and 07:00am the horn may be sounded only in an emergency"
+      },
+      {
+        "Question": "When is the use of the horn prohibited?",
+        "Answer":   "Between 11:30pm and 07:00am in a built up area"
+      },
+      {
+        "Question": "What stopping distance should a driver allow for when driving in snow or icy conditions?",
+        "Answer":   "Up to 10 times the normal distance"
+      },
+      {
+        "Question": "In wet weather how might a driver judge what is a safe following distance from the vehicle in front?",
+        "Answer":   "By allowing at least 4 seconds to elapse between the vehicle in front and the driver's own vehicle passing a fixed point"
+      },      
+      {
+        "Question": "What are the drink driving penalties for a learner driver with a blood alcohol concentrate (BAC) of 20 mg to 80 mg per 100 millilitres of blood?",
+        "Answer":   "€200 fine and 3 months driving disqualification"
+      },      
+      {
+        "Question": "What are the drink driving penalties for a professional driver holding a full car license and found to have a blood alcohol concentrate (BAC) of 20 mg to 80 mg per 100 millilitres of blood?",
+        "Answer":   "€200 fine and 3 months driving disqualification"
+      },      
+      {
+        "Question": "What are the drink driving penalties for a driver with a blood alcohol concentrate (BAC) of 80 mg to 100 mg per 100 milliolitres of blood?",
+        "Answer":   "€400 fine and 6 months driving disqualification"
+      },      
+      {
+        "Question": "what is the penalty for a driver who refuses to give breath, blood or urine samples as evidence for a second offence to An Garda Siochana?",
+        "Answer":   "Automatic disqualification for 6 years."
+      },
+      {
+        "Question": "What is the maximum penalty on conviction of drug driving?",
+        "Answer":   "€5000 fine and 6 months in prison."
+      },
+      {
+        "Question": "What is the recommended minimum stopping distance for a car travelling at 50 km/h on a dry road?",
+        "Answer":   "25 metres"
+      }
+      ,
+      {
+        "Question": "What is the recommended minimum stopping distance for a car travelling at 50 km/h on a wet road?",
+        "Answer":   "35 metres"
+      }
+      ,
+      {
+        "Question": "What is the recommended minimum stopping distance for a car travelling at 100 km/h on a wet road?",
+        "Answer":   "70 metres"
+      }
+      ,
+      {
+        "Question": "What is the rule relating to the 'safe headway' (a safe distance between two vehicles on the road) when weather conditions are good?",
+        "Answer":   "The 2 second rule"
+      }
+      ,
+      {
+        "Question": "In which of the following situations is overtaking on the left permitted?",
+        "Answer":   "The overtaking driver has signalled that they intend to turn left."
+      },
+      {
+        "Question": "A learner permit driver who receives 7 penalty points in a 36 month period (3 years) will be banned from driving for how many months?",
+        "Answer":   "6 months"
+      },
+      {
+        "Question": "What is the minimum penalty point offence for a learner driver not displaying 'L' plates both on the front and rear of the vehicle?",
+        "Answer":   "2 penalty points"
+      },
+      {
+        "Question": "How many penalty points will an unaccompanied driver receive on conviction?",
+        "Answer":   "4 penalty points"
+      },
+      {
+        "Question": "What is the fine for a learner driver for driving a vehicle unaccompanied?",
+        "Answer":   "€120"
+      },
+      {
+        "Question": "A learner driver who is stopped by a Garda for driving unaccompanied facesa a minimum fine of how much?",
+        "Answer":   "€80"
+      },
+      {
+        "Question": "If the owner of a vehicle allows a learner driver to drive their vehicle, what is the maximum fine the owner could face?",
+        "Answer":   "€1000"
+      },
+      {
+        "Question": "What is the fixed charge amount and penalties incurred for a learner driver who drived unaccompanied?",
+        "Answer":   "€80 fine and 2 penalty points"
+      },
+      {
+        "Question": "A learner driver detected of driving unaccompanied faces a minimum of how many penalty points?",
+        "Answer":   "2 penalty points"
+      },
+      {
+        "Question": "On average, how many pedestrians will be killed if hit by a car at 60 km/h?",
+        "Answer":   "9 out of 10"
+      },
+      {
+        "Question": "On average, how many pedestrians will be killed if hit by a car at 50 km/h?",
+        "Answer":   "5 out of 10"
+      },
+      {
+        "Question": "On average, how many pedestrians will be killed if hit by a car at 30 km/h?",
+        "Answer":   "1 out of 10"
+      },
+      {
+        "Question": "What category of license must a driver hold in order to drive a vehicle Maximum Authorised Mass (MAM) of 7500 kg with seatin for no more than 8 passengers?",
+        "Answer":   "C1, C1E, C or CE"
+      },
+      {
+        "Question": "What is the Maximum Authorised Mass (MAM) of a vehicle that the holder of a category C1 license may drive?",
+        "Answer":   "7500 kg"
+      },
+      {
+        "Question": "Is the holder of a category C1 license entitled to tow a trailer?",
+        "Answer":   "Yes, uo to 750 kg Maximum Authorised Mass (MAM)"
+      },
+      {
+        "Question": "Unless otherwise indicated, what is the maximum permissible speed of a car towing a trailer on national roads?",
+        "Answer":   "80 km/h"
+      },
+      {
+        "Question": "Unless otherwise indicated, what is the maximum permissible speed of a car towing a trailer on a motorway?",
+        "Answer":   "80 km/h"
+      },
+      {
+        "Question": "What is the maximum permitted speed of a truck?",
+        "Answer":   "90 km/h"
+      },
+      {
+        "Question": "What is the maximum permitted speed of a truck on a motorway?",
+        "Answer":   "90 km/h"
+      },
+      {
+        "Question": "What is the maximum permitted speed of a truck on a national road?",
+        "Answer":   "80 km/h"
+      },
+      {
+        "Question": "What is the maximum permitted speed of a truck on a dual carriageway?",
+        "Answer":   "80 km/h"
+      },
+      {
+        "Question": "What is the maximum permitted speed on a motorway for a goods vehicle with a Maximum Authorised Mass (MAM) of more than 3500 kg?",
+        "Answer":   "90 km/h"
+      },
+      {
+        "Question": "What is the maximum permitted speed on a motorway for a goods vehicle with a Maximum Authorised Mass (MAM) of 3000 kg?",
+        "Answer":   "120 km/h"
+      },
+      {
+        "Question": "What is the maximum permitted rear load overhang with a red flag ?",
+        "Answer":   "3 metres"
+      },
+      {
+        "Question": "What is the maximum permitted rear load overhang which does not require a red flag ?",
+        "Answer":   "1 metre"
+      },
+      {
+        "Question": "What is the maximum permitted length of an articulated vehicle ?",
+        "Answer":   "16.5 metres"
+      },
+      {
+        "Question": "What is the Maximum Authorised Mass (MAM) in tonnes of a 4 axle rigid truck with conventional (non air) suspension ?",
+        "Answer":   "30 tonnes"
+      },
+      {
+        "Question": "What is the Maximum Authorised Mass (MAM) in tonnes of a 3 axle rigid truck with conventional (non air) suspension ?",
+        "Answer":   "25 tonnes"
+      },
+      {
+        "Question": "What is the Maximum Authorised Mass (MAM) in tonnes of a 2 axle rigid truck with conventional suspension ?",
+        "Answer":   "18 tonnes"
+      },
+      {
+        "Question": "A category D1E license is required to drive which of the following vehicles ?",
+        "Answer":   "A vehicle that carries more than 8 passengers but not more than 16 excluding the driver, towing a trailer, where the combined Maximum Authorised Mass (MAM) is 12,000 kg or less"
+      }
+   ]
+}
